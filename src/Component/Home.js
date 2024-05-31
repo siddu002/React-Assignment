@@ -13,7 +13,7 @@ const Home = () => {
       <header className="mb-12">
       <div className="mb-4 text-purple-700  inline-flex items-center border border-purple-700 rounded-full">
   <span className="inline-block bg-purple-100 px-3 py-1 rounded-full text-[8px] md:text-sm">New feature</span>
-  <a href="#" className="ml-2 text-purple-700 underline mr-2 text-center text-xs md:text-sm">Check out the team dashboard →  </a>
+  <a href="#" className="ml-2 text-purple-700 no-underline mr-2 text-center text-xs md:text-sm">Check out the team dashboard →  </a>
 </div>
 
 
