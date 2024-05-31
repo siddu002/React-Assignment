@@ -136,7 +136,7 @@ const Footer = () => {
           </svg>
         </a>
       </span>
-    </div>
+    </div>   
   </div>
   <div className="bg-white">
     <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
