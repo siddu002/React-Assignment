@@ -10,7 +10,6 @@ import siximg from "./images/10.png";
 const Home = () => {
   return (
     <div className="container mx-auto p-6 text-center overflow-hidden">
-      {/* Header Section */}
       <header className="mb-12">
       <div className="mb-4 text-purple-700  inline-flex items-center border border-purple-700 rounded-full">
   <span className="inline-block bg-purple-100 px-3 py-1 rounded-full text-[8px] md:text-sm">New feature</span>
@@ -35,15 +34,15 @@ const Home = () => {
         </div>
       </header>
 
-      {/* Image Section with Full Width Overlay */}
-      <div className="relative bg-white shadow-lg rounded-lg overflow-hidden mx-auto border-4 border-black lg:w-[1280px]">
+  
+      <div className="relative bg-white shadow-lg rounded-lg overflow-hidden mx-auto border-4  border-black lg:w-[1280px]">
         <img
           src={StatsImage}
           alt="Stats for Olivia Rhye"
           className="w-full z-0"
         />
 
-        {/* Full Width Overlay for Logos */}
+        
        
       </div>
 

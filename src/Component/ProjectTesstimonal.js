@@ -22,7 +22,7 @@ const ProjectTesstimonal = () => {
           <h1 class="text-center lg:text-2xl font-bold">Sisyphus</h1>
         </div>
 
-        <h1 class="text-center lg:text-3xl font-bold">
+        <h1 class="text-center lg:text-3xl font-bold text-xl text-center p-2">
           We’ve been using Untitled to kick start every new <br />
           project and can’t imagine working without it.
         </h1>
