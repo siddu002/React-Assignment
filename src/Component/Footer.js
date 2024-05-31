@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="text-gray-600 body-font mx-auto max-w-[1280px] h-[240px]">
   <div className="container lg:px-5 lg:py-24 mx-auto">
     <div className="flex flex-wrap md:text-left text-center -mb-10 -mx-4">
-      <div className="lg:w-1/6 md:w-1/2 w-full px-4">
+      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 w-full px-4">
         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
         <nav className="list-none mb-10">
           <li>
@@ -23,7 +23,7 @@ const Footer = () => {
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2 w-full px-4">
+      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 w-full px-4">
         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
         <nav className="list-none mb-10">
           <li>
@@ -40,7 +40,7 @@ const Footer = () => {
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2 w-full px-4">
+      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 w-full px-4">
         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
         <nav className="list-none mb-10">
           <li>
@@ -57,7 +57,7 @@ const Footer = () => {
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2 w-full px-4">
+      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 w-full px-4">
         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
         <nav className="list-none mb-10">
           <li>
@@ -75,7 +75,7 @@ const Footer = () => {
         </nav>
       </div>
       
-      <div className="lg:w-1/6 md:w-1/2 w-full px-4">
+      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 w-full px-4">
         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
         <nav className="list-none mb-10">
           <li>
@@ -92,7 +92,7 @@ const Footer = () => {
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2  w-full px-4">
+      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2  w-full px-4">
         <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
         <nav className="list-none mb-10">
           <li>
