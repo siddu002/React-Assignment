@@ -46,7 +46,7 @@ const Header = () => {
               <a className="mb-2 hover:text-gray-900">Third Link</a>
               <a className="mb-2 hover:text-gray-900">Fourth Link</a>
               <img
-                src={oliva}
+                src={oliva}   
                 alt="User Avatar"
                 className="w-8 h-8 rounded-full mt-2"
               />
