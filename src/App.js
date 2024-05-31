@@ -6,7 +6,8 @@ import Footer from './Component/Footer';
 import Faq from './Component/Faq';
 import Statisticdata from './Component/Statisticdata';
 import BlogSection from './Component/BlogSection';
-import FreeTrialBanner from './Component/FreeTrialBanner'
+import FreeTrialBanner from './Component/FreeTrialBanner';
+import ProjectTesstimonal from './Component/ProjectTesstimonal'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <Header/>
     <Home />
     <Features/>
+    <ProjectTesstimonal/>
     <Statisticdata/>
     <Faq/>
     <BlogSection/>
