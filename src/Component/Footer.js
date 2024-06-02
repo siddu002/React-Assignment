@@ -5,107 +5,143 @@ const Footer = () => {
     <>
     <footer className="text-gray-600 body-font mx-auto max-w-[1280px] h-[240px]">
   <div className="container lg:px-5 lg:py-24 mx-auto">
-    <div className="flex flex-wrap md:text-left text-center -mb-10 -mx-4">
-      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 mx-auto px-4">
-        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+    <div className="flex flex-wrap md:text-left text-center -mb-5 -mx-4">
+      <div className="lg:w-1/6 md:w-1/3 sm:w-1/2 xs:w-1/2 mx-auto px-[50px]">
+        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Product</h2>
         <nav className="list-none mb-10">
           <li>
-            <a className="text-gray-600 hover:text-gray-800">First Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Overview</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Features</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Solutions</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Tutorials</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Pricing</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Releases</a>
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 mx-auto px-4">
-        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+      <div className="lg:w-1/6 md:w-1/3 sm:w-1/2 xs:w-1/2 mx-auto px-[50px]">
+        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Company</h2>
         <nav className="list-none mb-10">
           <li>
-            <a className="text-gray-600 hover:text-gray-800">First Link</a>
+            <a className="text-gray-600 hover:text-gray-800">About Us</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Careers</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Press</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+            <a className="text-gray-600 hover:text-gray-800">News</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Media Kit</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Contact</a>
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 mx-auto px-4">
-        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+      <div className="lg:w-1/6 md:w-1/3 sm:w-1/2 mx-auto xs:w-1/2 px-[37px] ">
+        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Resources</h2>
         <nav className="list-none mb-10">
           <li>
-            <a className="text-gray-600 hover:text-gray-800">First Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Blog</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+            <a className="text-gray-600 hover:text-gray-800">News Letter</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Events</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Help Center</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Tutorials</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Support</a>
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2  mx-auto px-4">
-        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+      <div className="lg:w-1/6 md:w-1/3 sm:w-1/2 xs:w-1/2  mx-auto px-[50px]">
+        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Use cases</h2>
         <nav className="list-none mb-10">
           <li>
-            <a className="text-gray-600 hover:text-gray-800">First Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Startups</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Enterprise</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Government</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+            <a className="text-gray-600 hover:text-gray-800">SaaS center</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Marketplaces</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Ecommerce</a>
           </li>
         </nav>
       </div>
       
-      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 mx-auto  px-4">
-        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+      <div className="lg:w-1/6 md:w-1/3 sm:w-1/2 xs:w-1/2 mx-auto  px-[50px]">
+        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Social</h2>
         <nav className="list-none mb-10">
           <li>
-            <a className="text-gray-600 hover:text-gray-800">First Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Twitter</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+            <a className="text-gray-600 hover:text-gray-800">LinkedIn</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Facebook</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Github</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">AngelList</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Dribbble</a>
           </li>
         </nav>
       </div>
-      <div className="lg:w-1/6 md:w-1/2 sm:w-1/2 mx-auto px-4">
-        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
+      <div className="lg:w-1/6 md:w-1/3 sm:w-1/2 xs:w-1/2 mx-auto px-[50px]">
+        <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">Legal</h2>
         <nav className="list-none mb-10">
           <li>
-            <a className="text-gray-600 hover:text-gray-800">First Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Terms</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Second Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Privacy</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Third Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Cookies</a>
           </li>
           <li>
-            <a className="text-gray-600 hover:text-gray-800">Fourth Link</a>
+            <a className="text-gray-600 hover:text-gray-800">Licenses</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Settings</a>
+          </li>
+          <li>
+            <a className="text-gray-600 hover:text-gray-800">Contact</a>
           </li>
         </nav>
       </div>
